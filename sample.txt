@@ -1,1 +1,10 @@
 This is sample text file.
+
+check: https://www.thegeekstuff.com/
+
+
+
+https://stackoverflow.com/questions/33006410/how-to-load-the-data-into-html-table-from-a-text-file
+
+https://stackoverflow.com/questions/41952186/how-to-save-html-table-data-in-txt-file/41953813
+
